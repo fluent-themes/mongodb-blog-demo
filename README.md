@@ -239,17 +239,7 @@ Most shared hosts don't have MongoDB installed locally. Use **MongoDB Atlas** (f
 
 ---
 
-## Screenshots
-
-Add these screenshots to a `/screenshots` folder:
-
-1. **screenshots/01-homepage.png** - Homepage showing list of posts with pagination, search bar, and category sidebar
-2. **screenshots/02-create-form.png** - Create new post form with title, content, and category fields  
-3. **screenshots/03-single-post.png** - Single post view showing full content with Edit and Delete buttons
-
----
-
-## Lessons Learned
+## Lessons for MySQL users
 
 MongoDB differs from MySQL in several key ways that WordPress developers should understand:
 
